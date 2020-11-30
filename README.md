@@ -1,2 +1,6 @@
 # aVoid
  A c++ videogame developed with GLUT, DevIL and irrKlang libraries
+
+To open a play the game download the file at the following link
+https://mega.nz/file/P5giTA6A#AI-yo53tD4l_1s_fmOUHi-SSYQy_7QuODwjxWbXJs8k
+Extract it, open aVoid.exe, enjoy!
